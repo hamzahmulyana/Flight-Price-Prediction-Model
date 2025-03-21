@@ -45,8 +45,7 @@ Ensure that you have the following installed:
 
 1. **Clone the Repository**:
    ```bash
-   git clone 
-
+   git clone https://github.com/hamzahmulyana/Flight-Price-Prediction-Model.git
 
 ## Contribute
 
